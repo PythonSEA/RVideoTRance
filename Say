@@ -1,0 +1,4 @@
+import sys
+
+sys.stdout.write("Hello , jammgit , I come back.")
+sys.stdout.flush()
